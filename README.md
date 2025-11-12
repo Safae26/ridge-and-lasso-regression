@@ -10,6 +10,7 @@ The dataset used is `Hitters.csv`, which contains information about 322 baseball
 - **Career totals** (e.g., `CHits`, `CRuns`)
 - **Categorical variables**: `League`, `Division`, `NewLeague`
 - **Target variable**: `Salary` (player earnings)
+The explanation of the data features can be found in `Hitters Data Legend.xlsx`
 
 ## 🛠️ Preprocessing Steps
 
